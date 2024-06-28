@@ -1,0 +1,13 @@
+---
+BasedOnStyle: LLVM
+AlignArrayOfStructures: Right
+AlignConsecutiveAssignments:
+  Enabled: true
+AlignConsecutiveMacros:
+  Enabled: true
+BreakBeforeBraces: Allman
+IndentCaseLabels: true
+IndentWidth: 4
+NamespaceIndentation: All
+---
+
