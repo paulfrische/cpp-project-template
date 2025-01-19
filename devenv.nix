@@ -3,5 +3,8 @@
     cmake
     ninja
     pkg-config
+    clang
   ];
+
+  stdenv = pkgs.clangStdenv;
 }
